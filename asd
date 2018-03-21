@@ -1,13 +1,4 @@
-%%%-------------------------------------------------------------------
-%%% @author sbernal
-%%% @copyright (C) 2018, <COMPANY>
-%%% @doc
-%%%
-%%% @end
-%%% Created : 20. Mar 2018 11:59 AM
-%%%-------------------------------------------------------------------
 -module(myLists).
--author("sbernal").
 
 %% API
 -export([contains/2, duplicateElements/1, sumFloats/1, sumFloats1/1, onp/1]).
